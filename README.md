@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JudeSarpong
 - 👀 I’m interested in Mobile Apps development.
-- 🌱 I’m currently learning Java and Android Studio.
-- 💞️ I’m looking to collaborate on this platform to learn the best I can to become a better version of myself.
+- 🌱 Python, Java and Android Studio.
+- 💞️ I’m looking forward to learn more on this platform to be the best I can.
 - 📫 You can reach me through email using judesarpong6@gmail.com
 
 <!---
