@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JudeSarpong
 - 👀 I’m interested in Mobile Apps development.
-- 🌱 Python, Java and Android Studio.
+- 🌱 Flutter, Databases, UI/UX and Android Studio.
 - 💞️ I’m looking forward to learn more on this platform to be the best I can.
 - 📫 You can reach me through email using judesarpong6@gmail.com
 
